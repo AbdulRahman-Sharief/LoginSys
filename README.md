@@ -20,4 +20,4 @@ $ npm run dev
 
 ### MongoDB
 
-Open "config/keys.js" and add your MongoDB URI, local or Atlas
+create a config.env file in the main directory and add "PORT=5000", "DATABASE== ((your mongoDB connection string))" & "DATABASE_PASSWORD==((your DB pasword))" to it .
